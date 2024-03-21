@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="45%">
+  ![831692](https://github.com/Abisheck007/Abisheck007/assets/144201738/f341a803-14cc-4edf-8556-9b71d893c8ad)
 </div>
+
 
 ## Hi there 👋
 
