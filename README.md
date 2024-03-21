@@ -1,5 +1,5 @@
 <div align="center">
-  ![831692](https://github.com/Abisheck007/Abisheck007/assets/144201738/f341a803-14cc-4edf-8556-9b71d893c8ad)
+  <img src="https://github.com/Abisheck007/Abisheck007/assets/144201738/f341a803-14cc-4edf-8556-9b71d893c8ad" alt="Failer" width="45%">
 </div>
 
 
