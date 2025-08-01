@@ -51,21 +51,23 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abisheck2002&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abisheck2002&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abisheck2002&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abisheck2002&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 [Gmail](abisheck84.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://abisheck-portfolio-official.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](abisheck84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abisheck-b-7b6803288/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=githubpages&logoColor=white)](https://abisheck-portfolio-official.netlify.app/)
+
 
 ---
 
